@@ -10,6 +10,8 @@
     an ordinary success; a natural 19 is always an ordinary failure, a natural 20 is always a fumble. If the task is harder or easier, the GM 
     has the option of making the goal number higher (easier) or lower (harder).
 
+Dekados
+
 
 AstraAaron :
 
@@ -21,13 +23,13 @@ AstraAaron :
 
 	       * Endurance
 
-	       * Dexterity
+	       * Dexterity +2
 
     * Mind
 
 	       * Wits
 
-	       * Perception
+	       * Perception +2
 
 	       * Tech
 
@@ -38,17 +40,26 @@ AstraAaron :
 
 	       * Passion :   /  Calm :
 
-	       * Faith :     /   Ego :
+	       * Faith :     /   Ego : +1
 
 * Skills :
 
 	   * Natural Skills
 
 
-	   * Learned Skills 
+	   * Learned Skills :
+       Aplha b : Terrien
+       Baratin : +1
+       COnnaissance : +1
+       Etiquette : +1 
+
 
 
 * Advantages :
+soupsonneux +2 en perception face a des rivaux
+
+
 
 * Disadvantage : 
+Vanieux -2 perception devant les flatteries.
 
